@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">Computer Science graduate at Technical University of Lodz, Fullstack Developer with 3+ years in enhancing web appsand mentorship. Excels in TypeScript, React, and Node.js. Passionate about frontend development and blockchain technology</h3>
+<h3 align="center">Computer Science graduate at Technical University of Lodz, Fullstack Developer with 4+ years in enhancing web appsand mentorship. Excels in TypeScript, React, and Node.js. Passionate about frontend development and blockchain technology</h3>
 
 
 
